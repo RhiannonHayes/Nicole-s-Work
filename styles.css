@@ -1,0 +1,116 @@
+.carousel-item {
+  height: 100vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.logo-image {
+width: 200px;
+}
+
+.display-1 {
+  padding-bottom: 350px;
+  font-family: 'Major Mono Display', monospace;
+}
+
+#about-section {
+  padding: 5% 15%;
+    background-color: #343a40;
+}
+
+.header {
+  font-size: 100px;
+  text-align: center;
+  line-height: 1.5;
+  padding-bottom: 5%;
+  font-family: 'Changa', sans-serif;
+  color: white;
+}
+
+.paragraph {
+  font-size: 40px;
+  text-align: center;
+  font-family: 'Roberto', sans-serif;
+  color:white;
+}
+
+.paragraph-white {
+  color: black;
+  font-size: 40px;
+  font-family: 'Roberto', sans-serif;
+  padding: 5%;
+}
+
+.perk-icon {
+  width: 250px;
+  padding: 7%;
+}
+
+.perk-heading {
+  font-size: 80px;
+  padding: 7%;
+  font-family: "Changa", sans-serif;
+  color: black;
+}
+
+
+#services-section {
+  text-align: center;
+  padding: 2% 5%;
+
+}
+
+.services-heading {
+  font-size: 100px;
+  text-align: center;
+  line-height: 1.5;
+  font-family: 'Changa', sans-serif;
+  padding: 7%;
+}
+
+.card {
+  border: 1px;
+  padding: 10%;
+}
+
+
+#services-section-2 {
+  text-align: center;
+}
+
+
+
+.row > div {
+      padding: 0 4px;
+}
+
+img {
+    margin-top: 8px;
+    vertical-align: middle;
+
+}
+
+#gallery-section {
+  background-color: #343a40;
+  padding: 7%;
+}
+
+.social-icon {
+  padding: 30px;
+}
+
+#footer {
+  text-align: center;
+  background-color: #343a40;
+}
+
+@media (max-width: 770px) {
+
+.display-1 {
+  padding-bottom: 350px;
+  font-family: 'Major Mono Display', monospace;
+  }
